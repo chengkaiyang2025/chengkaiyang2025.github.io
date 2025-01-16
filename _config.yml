@@ -3,8 +3,8 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Chengkai Yang
-logo: /assets/yck/img/yck_white.jpg
+logo: /assets/yck/img/yck_dark.jpg
 description: Hey visitor, don't remember why you are here? Good, I’ll take this chance to introduce myself :-)
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
