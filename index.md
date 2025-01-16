@@ -3,10 +3,9 @@ layout: default
 ---
 
 # About me
+My name is Chengkai Yang. I have almost **9 years of work experience** in big data development and back-end development in the fields of autonomous driving, finance, and banking.
 
-I have almost 9 years of work experience in big data development and back-end development in the fields of autonomous driving, finance, and banking.
-
-I am currently pursuing a master degree in [Applied Data Science](https://www.uvic.ca/ecs/ece/future/mads/index.php) at the University of Victoria.
+I am currently pursuing a master degree in **[Applied Data Science](https://www.uvic.ca/ecs/ece/future/mads/index.php)** at the University of Victoria.
 
 I believe that my past engineering background and the data science I am currently studying can help me solve problems more effectively in the future.
 
@@ -21,6 +20,9 @@ I use Java, Scala and Python, as well as the following technology stack.
 - Backend development: Spring framework
 - Data collect and analyis: Pandas, Scrapy. 
 
+# Project
+
+Here is an **[short video of a Flink project](https://www.youtube.com/watch?v=dCqqfJ_6T3s)** I did previously using Flink to process log to find potential bugs in real-time
 
 # Employment History
 
@@ -32,15 +34,8 @@ Used HBase, Spark and Flink analyzing the trajectory of autonomous vehicle data 
 
 Participated in building an image annotation platform (Using Spring Framework) to help the algorithm team manage and store datasets, to train the algorithm more efficiently.
 
-## Senior Data Engineer - Yunzhangfang Internet Technology Ltd. Co 
-
-Nov 2019 - Jan 2022 Nanjing, Jiangsu, China 
-
-Used Neo4j database to analyze the supply chain information from a group of enterprises. 
-
-Designed a Flink program to analyze the logs of the programs from technical teams in the company to find potential bugs in real-time.
-
 For more details about my employment history, please go to my [LinkedIn page](https://www.linkedin.com/in/chengkai-yang-61b1a4253/).
+
 
 # Learning
 
@@ -52,13 +47,9 @@ The courses that I am currently studying or planning to study in MADS at the Uni
 
 Other courses of MADS mainly include Machine Learning, which is also a topic that I am very interested in. See the [link](https://www.uvic.ca/ecs/ece/future/mads/our-program/index.php) for details.
 
-# Projects
-
-Here is an [video](https://www.youtube.com/watch?v=dCqqfJ_6T3s) of a project I did previously using Flink to process log to find potential bugs in real-time
-
 # Contributions to the open-source project Apache Flink
 
-I am also a contributor to the community of the well-known real-time processing framework [Apache Flink](https://flink.apache.org/).
+I am also a **contributor** to the community of the well-known real-time processing framework [Apache Flink](https://flink.apache.org/).
 
  My contributions mainly include [translating the official English documentation of Flink into Chinese](https://github.com/apache/flink/pulls?q=is%3Apr+author%3Achengkaiyang2025+is%3Aclosed), which helps thousands of Chinese developers use Flink better. Here is a main list of my contributions.
 
