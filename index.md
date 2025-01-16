@@ -8,10 +8,11 @@ I have almost 9 years of work experience in big data development and back-end de
 
 I am currently pursuing a master degree in [Applied Data Science](https://www.uvic.ca/ecs/ece/future/mads/index.php) at the University of Victoria.
 
- I believe that my past engineering background and the data science I am currently studying can help me solve problems more effectively in the future.
+I believe that my past engineering background and the data science I am currently studying can help me solve problems more effectively in the future.
 
 
 # Skills
+
 I use Java, Scala and Python, as well as the following technology stack.
 
 - JVM/Python Tuning tools: Jprofile, Arthas ,Eclipse MAT, pdb, Py-Spy
@@ -23,13 +24,17 @@ I use Java, Scala and Python, as well as the following technology stack.
 
 # Employment History
 
-## Senior Data Engineer - [Neolix Autonomous Vechile](https://www.youtube.com/watch?v=GDfZvybUgSo) Apr 2023 - Dec 2024  Beijing,China
+## Senior Data Engineer - [Neolix Autonomous Vechile](https://www.youtube.com/watch?v=GDfZvybUgSo) 
+
+Apr 2023 - Dec 2024  Beijing,China
 
 Used HBase, Spark and Flink analyzing the trajectory of autonomous vehicle data  (TB-scale daily) to assess the performance of the vehicle. 
 
 Participated in building an image annotation platform (Using Spring Framework) to help the algorithm team manage and store datasets, to train the algorithm more efficiently.
 
-## Senior Data Engineer - Yunzhangfang Internet Technology Ltd. Co Nov 2019 - Jan 2022 Nanjing, Jiangsu, China 
+## Senior Data Engineer - Yunzhangfang Internet Technology Ltd. Co 
+
+Nov 2019 - Jan 2022 Nanjing, Jiangsu, China 
 
 Used Neo4j database to analyze the supply chain information from a group of enterprises. 
 
@@ -53,9 +58,20 @@ Here is an [video](https://www.youtube.com/watch?v=dCqqfJ_6T3s) of a project I d
 
 # Contributions to the open-source project Apache Flink
 
-I am also a contributor to the community of the well-known real-time processing framework [Apache Flink](https://flink.apache.org/). My contributions mainly include [translating the official English documentation of Flink into Chinese](https://github.com/apache/flink/pulls?q=is%3Apr+author%3Achengkaiyang2025+is%3Aclosed), which helps thousands of Chinese developers use Flink better. Here is a main list of my contributions.
+I am also a contributor to the community of the well-known real-time processing framework [Apache Flink](https://flink.apache.org/).
+
+ My contributions mainly include [translating the official English documentation of Flink into Chinese](https://github.com/apache/flink/pulls?q=is%3Apr+author%3Achengkaiyang2025+is%3Aclosed), which helps thousands of Chinese developers use Flink better. Here is a main list of my contributions.
+
 - [Translate "Metric Reporters" page of "Deployment"](https://github.com/apache/flink/pull/19496/files)
-- [Translate "Extension Points" and "Full Stack Example" in "User-defined Sources & Sinks" page](https://github.com/apache/flink/pull/20331/files)
+This article mainly introduces how to use monitoring tools such as Prometheus and JMX to better monitor the running status of Flink.
+
+- [Translate "Extension Points" and "Full Stack Example" in "User-defined Sources & Sinks" page](https://github.com/apache/flink/pull/20331/files):This article mainly introduces how users can customize the Table API to read and write data to external storage in addition to the Table connectors provided by Flink officially (such as Kafka connector, JDBC connector).
+
 
 # Fun facts about me
-I really enjoy doing weight training at the gym. I believe that long-term physical exercise can improve my concentration and perseverance. Currently, I train at the [gym of the University of Victoria](https://vikesrec.ca/), and it is also a great place to meet new friends and train together.
+
+I really enjoy doing weight training at the gym. 
+
+I believe that long-term physical exercise can improve my concentration and perseverance. 
+
+Currently, I train at the [gym of the University of Victoria](https://vikesrec.ca/), and it is also a great place to meet new friends and train together.
