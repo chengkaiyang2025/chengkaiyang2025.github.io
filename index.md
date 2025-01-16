@@ -2,122 +2,42 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About me
 
-[Click to go to my LinkedIn](https://www.linkedin.com/in/chengkai-yang-61b1a4253/).
+I have almost 9 years of work experience in big data development and back-end development in the fields of autonomous driving, finance, and banking.
 
-There should be whitespace between paragraphs.
+During this process, I realized that when dealing with and analyzing vast amounts of data, simply using SQL or traditional data analysis methods is not very productive. Many problems need technologies such as machine learning or deep learning to be effectively solved. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+So I applied the [MADS program](https://www.uvic.ca/ecs/ece/future/mads/index.php) at the University of Victoria to learn more about data science, and Now I'm back to the unversity again! 
+
+I believe that can improve my abilities in data processing and analysis and use machine learning and other methods to solve massive data problems in a better way.
+
 
 # Skills
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- Java, JVM
+- Python
+- Big Data tools like Spark, Flink, Hbase, Hadoop, etc.
+- Back-end development
 
-## Employe
+# Employment History
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Senior Data Engineer [Neolix Autonomous Vechile](https://www.youtube.com/watch?v=GDfZvybUgSo) Apr 2023 - Dec 2024 · 1 yr 9 mos
 
-### Header 3
+Worked on analyzing the trajectory of autonomous vehicle data  (TB-scale daily) to assess the performance of the vehicle. Participated in building an image annotation platform to help the algorithm team manage and store datasets, to train the algorithm more efficiently.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## 
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+##
+For more details about my employment history, please go to my [LinkedIn page](https://www.linkedin.com/in/chengkai-yang-61b1a4253/).
 
-#### Header 4
+# Learning
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+# Projects
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Big data management: Responsible for the storage management of different data types. For example, using object storage such as MinIO to manage images of the training datasets, and designing a client program that supports users to upload images to the dataset using the aws S3 protocol. Using Elasticsearch and HBase to store TB-scale trajectory point data, supporting backend services to query data at millisecond-level.
 
 
-### Definition lists can be used with HTML syntax.
+# Contribution on open-source project
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+# Fun facts about me
