@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Chengkai Yang
-logo: /assets/yck/img/logo.png
+logo: /assets/yck/img/ycksmile.jpg
 description: Hey visitor, got lost on the Internet? Good, I’ll take this opportunity to introduce myself!.
 show_downloads: true
 google_analytics:
