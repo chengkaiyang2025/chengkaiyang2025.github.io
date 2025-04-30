@@ -9,7 +9,6 @@ I am currently pursuing a master degree in **[Applied Data Science](https://www.
 
 I believe that my past engineering background and the data science I am currently studying can help me solve problems more effectively in the future.
 
-More details can be found in my linkedin page: https://www.linkedin.com/in/chengkai-yang-61b1a4253/
 # Skills
 
 I use Java, Scala and Python, as well as the following technology stack.
@@ -34,7 +33,7 @@ Used HBase, Spark and Flink analyzing the trajectory of autonomous vehicle data 
 
 Participated in building an image annotation platform (Using Spring Framework) to help the algorithm team manage and store datasets, to train the algorithm more efficiently.
 
-For more details about my employment history, please go to my [LinkedIn page](https://www.linkedin.com/in/chengkai-yang-61b1a4253/).
+For more details about my employment history, please go to my **[LinkedIn page](https://www.linkedin.com/in/chengkai-yang-61b1a4253/)**.
 
 
 # Learning
