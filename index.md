@@ -9,7 +9,7 @@ I am currently pursuing a master degree in **[Applied Data Science](https://www.
 
 I believe that my past engineering background and the data science I am currently studying can help me solve problems more effectively in the future.
 
-More details can be found in my linkedin: https://www.linkedin.com/in/chengkai-yang-61b1a4253/
+More details can be found in my linkedin page: https://www.linkedin.com/in/chengkai-yang-61b1a4253/
 # Skills
 
 I use Java, Scala and Python, as well as the following technology stack.
