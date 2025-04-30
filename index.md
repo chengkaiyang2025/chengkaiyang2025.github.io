@@ -56,7 +56,8 @@ I am also a **contributor** to the community of the well-known real-time process
 This article mainly introduces how to use monitoring tools such as Prometheus and JMX to better monitor the running status of Flink.
 
 - [Translate "Extension Points" and "Full Stack Example" in "User-defined Sources & Sinks" page](https://github.com/apache/flink/pull/20331/files):This article mainly introduces how users can customize the Table API to read and write data to external storage in addition to the Table connectors provided by Flink officially (such as Kafka connector, JDBC connector).
-
+# Blogs
+- [How to write python script](./blog/python_scripts.md)
 
 # Fun facts about me
 
