@@ -19,9 +19,6 @@ I use Java, Scala and Python, as well as the following technology stack.
 - Backend development: Spring framework
 - Data collect and analyis: Pandas, Scrapy. 
 
-# Project
-
-Here is an **[short video of a Flink project](https://www.youtube.com/watch?v=dCqqfJ_6T3s)** I did previously using Flink to process log to find potential bugs in real-time
 
 # Employment History
 
@@ -57,9 +54,10 @@ This article mainly introduces how to use monitoring tools such as Prometheus an
 
 - [Translate "Extension Points" and "Full Stack Example" in "User-defined Sources & Sinks" page](https://github.com/apache/flink/pull/20331/files):This article mainly introduces how users can customize the Table API to read and write data to external storage in addition to the Table connectors provided by Flink officially (such as Kafka connector, JDBC connector).
 
-# Blogs
-- [How to write python script](./blog/python_scripts.md)
-
+# Projects
+- [💰 Tech Salary Predictor](http://47.121.130.34:8089/), click [here](https://github.com/chengkaiyang2025/SalaryEstimator) for more details.
+- [Gpt-style SpamEmailClassifier](http://47.121.130.34:5000/), click [here](https://github.com/chengkaiyang2025/Summer-2025-ECE-597-Group11) for more details.
+- Here is an **[short video of a Flink project](https://www.youtube.com/watch?v=dCqqfJ_6T3s)** I did previously using Flink to process log to find potential bugs in real-time
 # Fun facts about me
 
 I really enjoy doing weight training at the gym. 
